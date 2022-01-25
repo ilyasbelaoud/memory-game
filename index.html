@@ -5,12 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Memory Game</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
 <body>
-    <div class="cards-container"></div>
-    <script src="app.js"></script>
+    <div class="board"></div>
+    <div class="controls">
+        <select class="select" id="gameArt">
+            <option selected value="valorant">Valorant</option>
+            <option value="demonSlayer">Demon Slayer</option>
+        </select>
+        <button class="start" id="startButton">Start</button>
+        <span id="timer">00</span>
+    </div>
+    <script src="./assets/js/app.js"></script>
 </body>
 
 </html>
