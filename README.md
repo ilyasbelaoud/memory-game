@@ -5,7 +5,7 @@
 - Background Music & Winning Sound Effect.
 
 ### Live Demo
--[https://ilyasbelaoud.github.io/wooster-template/](https://ilyasbelaoud.github.io/memory-game/)
+- [https://ilyasbelaoud.github.io/wooster-template/](https://ilyasbelaoud.github.io/memory-game/)
 
 ### Built with
 - Basic Html, Css and Vanilla Javascript
