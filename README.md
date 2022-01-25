@@ -5,13 +5,13 @@
 - Background Music & Winning Sound Effect.
 
 ### Live Demo
-- [https://ilyasbelaoud.github.io/wooster-template/](https://ilyasbelaoud.github.io/memory-game/)
+- [Live Demo](https://ilyasbelaoud.github.io/memory-game/)
 
 ### Built with
 - Basic Html, Css and Vanilla Javascript
 
 ### Images
-- WALLPAPER ABYSS - [WALLPAPER ABYSS](https://wall.alphacoders.com/)
+- [WALLPAPER ABYSS](https://wall.alphacoders.com/)
 
 ### Music
 - Poké & Chill ▸ Pokemon Gym - [](https://www.youtube.com/watch?v=5myuH7E-S5Q/)
