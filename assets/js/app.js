@@ -39,7 +39,6 @@ function startGame() {
     backgroundMusic.play();
     const cards = document.querySelectorAll('.card');
     cards.forEach(card => {
-        console.log('reached');
         card.classList.remove('flipped');
         card.addEventListener('click', () => flip(card));
     });
